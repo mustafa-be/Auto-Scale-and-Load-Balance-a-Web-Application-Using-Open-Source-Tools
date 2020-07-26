@@ -24,4 +24,5 @@ Terraform is an open-source infrastructure as code software tool created by Hash
 - Run terraform plan with the directory that contains .tf file.
 - Download your AWS credentials file and add its path to the .tf file.
 - Create a key pair on AWS EC2 console and export its .pub file to the directory that contains .tf file.
+- Add your vpc id to your .tf file where "YOUR_VPC_ID" is created.
 - Run terraform apply with the directory that contains .tf file.
